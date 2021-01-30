@@ -4,8 +4,6 @@
 
 ### Hey, I am Ítalo Henrique! 🤟
 
-Computer Engineering student at UFPE and developer with VueJS, Reactjs, Nodejs, React Native, Java, Android and C/C++.
-
 - Passionate about solving challenges and finding solutions to society's problems ✌️
 - Solving problems with Embedded Systems Design ⚙️
 - UX/UI enthusiast 🤝
