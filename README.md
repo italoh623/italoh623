@@ -4,8 +4,8 @@
 
 ### Hey, I am Ítalo Henrique! 🤟
 
-- Passionate about solving challenges and finding solutions to society's problems ✌️
+- Passionate about solving challenges and finding solutions to society's problems 🤝
 - Solving problems with Embedded Systems Design ⚙️
-- UX/UI enthusiast 🤝
+- UX/UI enthusiast ✌️
 
 [![Badge](https://img.shields.io/badge/-@italo--leca-%231C1C1C?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/italo-leca/) [![Badge](https://img.shields.io/badge/-italohenrique014@gmail.com-%231C1C1C?style=flat-square&logo=Gmail)](mailto:italohenrique014@gmail.com)
