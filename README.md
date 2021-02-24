@@ -8,4 +8,6 @@
 - Solving problems with Embedded Systems Design ⚙️
 - UX/UI enthusiast ✌️
 
+![Meu Status](https://github-readme-stats.vercel.app/api?username=samuelbrasileiro&show_icons=true)
+
 [![Badge](https://img.shields.io/badge/-@italo--leca-%231C1C1C?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/italo-leca/) [![Badge](https://img.shields.io/badge/-italohenrique014@gmail.com-%231C1C1C?style=flat-square&logo=Gmail)](mailto:italohenrique014@gmail.com)
