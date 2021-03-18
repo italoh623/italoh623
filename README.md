@@ -8,6 +8,6 @@
 - Solving problems with Embedded Systems Design ⚙️
 - UX/UI enthusiast ✌️
 
-![Meu Status](https://github-readme-stats.vercel.app/api?username=italoh623&show_icons=true)
+![Meu Status](https://github-readme-stats.vercel.app/api?username=italoh623&show_icons=true&theme=dark)
 
 [![Badge](https://img.shields.io/badge/-@italo--leca-%231C1C1C?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/italo-leca/) [![Badge](https://img.shields.io/badge/-italohenrique014@gmail.com-%231C1C1C?style=flat-square&logo=Gmail)](mailto:italohenrique014@gmail.com)
